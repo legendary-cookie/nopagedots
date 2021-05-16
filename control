@@ -1,0 +1,9 @@
+Package: de.vincentschweiger.nopagedots
+Name: NoPageDots
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the page dots from the homescreen!
+Maintainer: Vento
+Author: Vento
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
